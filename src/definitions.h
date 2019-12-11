@@ -24,7 +24,7 @@ static constexpr auto STATUS_SERVER_NAME = "Crown Adventures";
 static constexpr auto STATUS_SERVER_VERSION = "1.3";
 static constexpr auto STATUS_SERVER_DEVELOPERS = "Frank";
 
-static constexpr auto CLIENT_VERSION_MIN = 1098;
+static constexpr auto CLIENT_VERSION_MIN = 1097;
 static constexpr auto CLIENT_VERSION_MAX = 1098;
 static constexpr auto CLIENT_VERSION_STR = "10.98";
 
