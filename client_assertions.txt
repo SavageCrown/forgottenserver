@@ -1,0 +1,44 @@
+----- 10/12/2019 00:29:36 - Fran (127.0.0.1) -----
+Debug Assertion 10.98 Container.h 230
+Tue Dec 10 00:29:02 2019
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in USA
+Processor: Intel Core i5 -9300H @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 200 104 109 104 109 104 109 103 109 030
+Last Packet: 200 002 000 000 000 000 000 000 000 000 002 075 000 010 000 071
+Player Position: [97,116,6]
+Player Name: Fran (Forgotten)
+Player Action: 048 046 048 046 048 046 048 058 055 049 055 050
+Player.cpp 344: exception occurred, reason:
+Player.cpp 448: exception occurred, reason:
+Control.cpp 2178: exception occurred (MessageType: 18 MaW: 4579C20 MoW: 1448EC0), reason:
+Control.cpp 2173: exception occurred, reason:
+Control.cpp 539: exception occurred (Force?1:0 = 0), reason:
+GUI.cpp 1825: exception occurred (Surface = 1), reason:
+GUI.cpp 1825: exception occurred (Surface = 1), reason:
+GUI.cpp 1825: exception occurred (Surface = 1), reason:
+DialogElements.cpp 1098: exception occurred (Surface = 1), reason:
+Objects.cpp 1010: exception occurred (Number = 368), reason:
+Container.h 230: index out of range (original i: 368, i: 367, min: 1, d: 116)
+Comment: 
+----- 10/12/2019 03:46:06 - Fran (127.0.0.1) -----
+Debug Assertion 10.98 Objects.cpp 640
+Tue Dec 10 03:45:55 2019
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in USA
+Processor: Intel Core i5 -9300H @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 110 160 106 121 180 029 103 109 103 109
+Last Packet: 121 003 106 094 000 130 000 007 002 037 011 255 160 100 000 100
+Player Position: [94,129,7]
+Player Name: Fran (Forgotten)
+Player Action: 048 046 048 046 048 046 048 058 055 049 055 050
+Player.cpp 344: exception occurred, reason:
+Network.cpp 855: exception occurred, reason:
+Control.cpp 1525: exception occurred (Type = 110) (MainWindow = 049F0078), reason:
+Communication.cpp 3060: exception occurred, reason:
+Objects.cpp 643: exception occurred (Type = 65291) (Flag = 10), reason:
+Objects.cpp 640: assertion failed (Type = 65291) (ObjectProperties->high() = 31956), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
