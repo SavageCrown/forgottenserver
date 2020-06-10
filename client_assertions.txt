@@ -42,3 +42,192 @@ Objects.cpp 643: exception occurred (Type = 65291) (Flag = 10), reason:
 Objects.cpp 640: assertion failed (Type = 65291) (ObjectProperties->high() = 31956), reason:
 In(Type,ObjectProperties->low(),ObjectProperties->high())
 Comment: 
+----- 07/06/2020 17:50:22 - Fran2 (127.0.0.1) -----
+Debug Assertion 10.98 Objects.cpp 640
+Sun Jun 07 17:49:10 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in USA
+Processor: Intel Core i5 -9300H @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 100 015 010 023 031 100 040 020 011 000
+Last Packet: 023 000 000 000 016 050 000 003 015 021 013 128 003 169 252 003
+Player Name: Fran (Forgotten)
+Player Action: 048 046 048 046 048 046 048 058 055 049 055 050
+Player.cpp 344: exception occurred, reason:
+Network.cpp 855: exception occurred, reason:
+Control.cpp 1525: exception occurred (Type = 100) (MainWindow = 03B4E288), reason:
+Communication.cpp 2458: exception occurred (PlayerX = 95) (PlayerY = 117), reason:
+Communication.cpp 2436: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 2415: exception occurred (Type = 4515) (OldType = 0), reason:
+Objects.cpp 643: exception occurred (Type = 4515) (Flag = 10), reason:
+Objects.cpp 640: assertion failed (Type = 4515) (ObjectProperties->high() = 2268), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
+----- 07/06/2020 17:50:38 - Fran (127.0.0.1) -----
+Debug Assertion 10.98 Objects.cpp 640
+Sun Jun 07 17:50:22 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in USA
+Processor: Intel Core i5 -9300H @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 100 015 010 023 031 100 040 020 011 000
+Last Packet: 023 001 000 000 016 050 000 003 015 021 013 128 003 169 252 003
+Player Name: Fran2 (Forgotten)
+Player Action: 048 046 048 046 048 046 048 058 055 049 055 050
+Player.cpp 344: exception occurred, reason:
+Network.cpp 855: exception occurred, reason:
+Control.cpp 1525: exception occurred (Type = 100) (MainWindow = 0117C1C8), reason:
+Communication.cpp 2458: exception occurred (PlayerX = 95) (PlayerY = 117), reason:
+Communication.cpp 2436: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 2415: exception occurred (Type = 4515) (OldType = 0), reason:
+Objects.cpp 643: exception occurred (Type = 4515) (Flag = 10), reason:
+Objects.cpp 640: assertion failed (Type = 4515) (ObjectProperties->high() = 2268), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
+----- 07/06/2020 17:50:49 - Fran (127.0.0.1) -----
+Debug Assertion 10.98 Objects.cpp 640
+Sun Jun 07 17:50:38 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in USA
+Processor: Intel Core i5 -9300H @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 100 015 010 023 031 100 040 020 000 000
+Last Packet: 023 002 000 000 016 050 000 003 015 021 013 128 003 169 252 003
+Player Name: Fran (Forgotten)
+Player Action: 048 046 048 046 048 046 048 058 055 049 055 050
+Player.cpp 344: exception occurred, reason:
+Network.cpp 855: exception occurred, reason:
+Control.cpp 1525: exception occurred (Type = 100) (MainWindow = 0123B740), reason:
+Communication.cpp 2458: exception occurred (PlayerX = 95) (PlayerY = 117), reason:
+Communication.cpp 2436: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 2415: exception occurred (Type = 4515) (OldType = 0), reason:
+Objects.cpp 643: exception occurred (Type = 4515) (Flag = 10), reason:
+Objects.cpp 640: assertion failed (Type = 4515) (ObjectProperties->high() = 2268), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
+----- 07/06/2020 17:51:00 - Fran2 (127.0.0.1) -----
+Debug Assertion 10.98 Objects.cpp 640
+Sun Jun 07 17:50:49 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in USA
+Processor: Intel Core i5 -9300H @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 100 015 010 023 031 100 040 020 011 000
+Last Packet: 023 002 000 000 016 050 000 003 015 021 013 128 003 169 252 003
+Player Name: Fran (Forgotten)
+Player Action: 048 046 048 046 048 046 048 058 055 049 055 050
+Player.cpp 344: exception occurred, reason:
+Network.cpp 855: exception occurred, reason:
+Control.cpp 1525: exception occurred (Type = 100) (MainWindow = 0399B800), reason:
+Communication.cpp 2458: exception occurred (PlayerX = 95) (PlayerY = 117), reason:
+Communication.cpp 2436: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 2415: exception occurred (Type = 4515) (OldType = 0), reason:
+Objects.cpp 643: exception occurred (Type = 4515) (Flag = 10), reason:
+Objects.cpp 640: assertion failed (Type = 4515) (ObjectProperties->high() = 2046), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
+----- 07/06/2020 17:51:12 - Fran (127.0.0.1) -----
+Debug Assertion 10.98 Objects.cpp 640
+Sun Jun 07 17:51:00 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in USA
+Processor: Intel Core i5 -9300H @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 100 015 010 023 031 100 040 020 000 000
+Last Packet: 023 001 000 000 016 050 000 003 015 021 013 128 003 169 252 003
+Player Name: Fran2 (Forgotten)
+Player Action: 048 046 048 046 048 046 048 058 055 049 055 050
+Player.cpp 344: exception occurred, reason:
+Network.cpp 855: exception occurred, reason:
+Control.cpp 1525: exception occurred (Type = 100) (MainWindow = 03D26390), reason:
+Communication.cpp 2458: exception occurred (PlayerX = 95) (PlayerY = 117), reason:
+Communication.cpp 2436: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 2415: exception occurred (Type = 4515) (OldType = 0), reason:
+Objects.cpp 643: exception occurred (Type = 4515) (Flag = 10), reason:
+Objects.cpp 640: assertion failed (Type = 4515) (ObjectProperties->high() = 2046), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
+----- 07/06/2020 17:52:55 - Fran (127.0.0.1) -----
+Debug Assertion 10.98 Objects.cpp 640
+Sun Jun 07 17:51:12 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in USA
+Processor: Intel Core i5 -9300H @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 100 015 010 023 031 100 040 020 011 000
+Last Packet: 023 002 000 000 016 050 000 003 015 021 013 128 003 169 252 003
+Player Name: Fran (Forgotten)
+Player Action: 048 046 048 046 048 046 048 058 055 049 055 050
+Player.cpp 344: exception occurred, reason:
+Network.cpp 855: exception occurred, reason:
+Control.cpp 1525: exception occurred (Type = 100) (MainWindow = 043DDEC0), reason:
+Communication.cpp 2458: exception occurred (PlayerX = 95) (PlayerY = 117), reason:
+Communication.cpp 2436: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 2415: exception occurred (Type = 4515) (OldType = 0), reason:
+Objects.cpp 643: exception occurred (Type = 4515) (Flag = 10), reason:
+Objects.cpp 640: assertion failed (Type = 4515) (ObjectProperties->high() = 2101), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
+----- 07/06/2020 17:55:09 - Fran (127.0.0.1) -----
+Debug Assertion 10.98 Objects.cpp 640
+Sun Jun 07 17:52:55 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in USA
+Processor: Intel Core i5 -9300H @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 100 015 010 023 031 100 040 020 000 000
+Last Packet: 023 003 000 000 016 050 000 003 015 021 013 128 003 169 252 003
+Player Name: Fran (Forgotten)
+Player Action: 048 046 048 046 048 046 048 058 055 049 055 050
+Player.cpp 344: exception occurred, reason:
+Network.cpp 855: exception occurred, reason:
+Control.cpp 1525: exception occurred (Type = 100) (MainWindow = 03B5D5A8), reason:
+Communication.cpp 2458: exception occurred (PlayerX = 95) (PlayerY = 117), reason:
+Communication.cpp 2436: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 2415: exception occurred (Type = 4515) (OldType = 0), reason:
+Objects.cpp 643: exception occurred (Type = 4515) (Flag = 10), reason:
+Objects.cpp 640: assertion failed (Type = 4515) (ObjectProperties->high() = 2268), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
+----- 07/06/2020 18:00:35 - Fran (127.0.0.1) -----
+Debug Assertion 10.98 Objects.cpp 640
+Sun Jun 07 17:55:09 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in USA
+Processor: Intel Core i5 -9300H @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 100 015 010 023 031 100 040 020 011 011
+Last Packet: 023 004 000 000 016 050 000 003 015 021 013 128 003 169 252 003
+Player Name: Fran (Forgotten)
+Player Action: 048 046 048 046 048 046 048 058 055 049 055 050
+Player.cpp 344: exception occurred, reason:
+Network.cpp 855: exception occurred, reason:
+Control.cpp 1525: exception occurred (Type = 100) (MainWindow = 03B0D868), reason:
+Communication.cpp 2458: exception occurred (PlayerX = 95) (PlayerY = 117), reason:
+Communication.cpp 2436: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 2415: exception occurred (Type = 4515) (OldType = 0), reason:
+Objects.cpp 643: exception occurred (Type = 4515) (Flag = 10), reason:
+Objects.cpp 640: assertion failed (Type = 4515) (ObjectProperties->high() = 2268), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
+----- 07/06/2020 18:16:00 - Fran (127.0.0.1) -----
+Debug Assertion 10.98 Objects.cpp 640
+Sun Jun 07 18:13:36 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in USA
+Processor: Intel Core i5 -9300H @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 100 015 010 023 031 100 040 020 000 000
+Last Packet: 023 001 000 000 016 050 000 003 015 021 013 128 003 169 252 003
+Player Name: Fran2 (Forgotten)
+Player Action: 048 046 048 046 048 046 048 058 055 049 055 050
+Player.cpp 344: exception occurred, reason:
+Network.cpp 855: exception occurred, reason:
+Control.cpp 1525: exception occurred (Type = 100) (MainWindow = 03C3F9F8), reason:
+Communication.cpp 2458: exception occurred (PlayerX = 1001) (PlayerY = 999), reason:
+Communication.cpp 2436: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 2415: exception occurred (Type = 4534) (OldType = 104), reason:
+Objects.cpp 643: exception occurred (Type = 4534) (Flag = 10), reason:
+Objects.cpp 640: assertion failed (Type = 4534) (ObjectProperties->high() = 2268), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
